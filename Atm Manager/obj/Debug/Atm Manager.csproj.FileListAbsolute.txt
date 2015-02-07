@@ -10,3 +10,15 @@ c:\users\alip\documents\visual studio 2013\Projects\Atm Manager\Atm Manager\obj\
 c:\users\alip\documents\visual studio 2013\Projects\Atm Manager\Atm Manager\bin\Debug\Resources\atm.accdb
 c:\users\alip\documents\visual studio 2013\Projects\Atm Manager\Atm Manager\obj\Debug\Atm_Manager.Form2.resources
 C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\Atm Manager\obj\Debug\Atm_Manager.Form3.resources
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\bin\Debug\Atm Manager.exe.config
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\obj\Debug\Atm Manager.exe
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\obj\Debug\Atm Manager.pdb
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\bin\Debug\Resources\atm.accdb
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\bin\Debug\Atm Manager.exe
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\bin\Debug\Atm Manager.pdb
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\obj\Debug\Atm Manager.csprojResolveAssemblyReference.cache
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\obj\Debug\Atm_Manager.Form1.resources
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\obj\Debug\Atm_Manager.Form2.resources
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\obj\Debug\Atm_Manager.Form3.resources
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\obj\Debug\Atm_Manager.Properties.Resources.resources
+C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\AtmManager\Atm Manager\obj\Debug\Atm Manager.csproj.GenerateResource.Cache

@@ -18,7 +18,7 @@ namespace Atm_Manager
         {
             con = new OleDbConnection();
             ds1 = new DataSet();
-            con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Alip\Documents\Visual Studio 2013\Projects\Atm Manager\Atm Manager\Resources\atm.accdb";
+            con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\Resources\atm.accdb";
             
         }
 
